@@ -170,12 +170,12 @@ class CampusMapApp3D:
         self.floor_images_raw = {}
         self.floor_images_tk  = {}
         floor_image_paths = {
-            -1: "lg_floor.png",
-            0: "ground_floor.png",
-            1: "floor_1.png",
-            2: "floor_2.png",
-            3: "floor_3.png",
-            4: "floor_4.png",
+            -1: "maps/lg_floor.png",
+            0: "maps/ground_floor.png",
+            1: "maps/floor_1.png",
+            2: "maps/floor_2.png",
+            3: "maps/floor_3.png",
+            4: "maps/floor_4.png",
         }
 
         for floor, path in floor_image_paths.items():
