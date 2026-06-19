@@ -11,3 +11,7 @@ areas, and administrative offices.
 - CSV-based campus database
 - Scalable to other university campuses
 
+## Concepts and Technologies Used
+- OOP
+- DSA (KD-Trees and Nearest Neighbour Search Algorithm)
+- TKinter and Pillow libraries for GUI
