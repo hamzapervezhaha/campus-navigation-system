@@ -1,2 +1,13 @@
 # campus-navigation-system
-an app that lets newcomers on campus know the nearest specific place (cafe, recreation spaces, etc.) to their own location. It also provides a map of each floor for enhanced self navigation.
+## Overview
+A navigation application that helps students and visitors locate
+the nearest campus facilities such as cafes, labs, recreation
+areas, and administrative offices.
+
+## Features
+- Nearest location search
+- Floor-wise navigation maps
+- Interactive interface
+- CSV-based campus database
+- Scalable to other university campuses
+
